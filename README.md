@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
