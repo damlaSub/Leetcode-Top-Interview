@@ -9,15 +9,12 @@ class Solution {
                 res[0] = i+1;
                 res[1] = y+1;
                 break;
-            }  
-            while(sum<target){
-                i++;
-                sum = numbers[i]+numbers[y];
-            }
-            while(sum>target){
+            }else if (sum > target){
                 y--;
-                sum = numbers[i]+numbers[y];
+            }  else {
+                i++;
             }
+            
            
         }
         return res;
