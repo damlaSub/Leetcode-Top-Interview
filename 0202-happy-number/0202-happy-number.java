@@ -1,25 +1,13 @@
 class Solution {
     public boolean isHappy(int n) {
-       String s = String.valueOf(n);  
        HashSet<Integer> set = new HashSet<>();
-
-       int result = getSquare(s);  
-       if(result == 1){
-        return true;
-       } else {
-            while(result != 1){
-        result = getSquare(String.valueOf(result));
-        if(result == 1) return true;
-        else if(set.contains(result)) return false;  
-        else {set.add(result);}
+       int result = n;  
+        while(result != 1 && !set.contains(result)){
+            set.add(result);
+            result = getSquare(String.valueOf(result));
+            
        }
-       }
-    
-       
-      
-       
-
-        return false;
+        return result ==1;
     }
     
 
