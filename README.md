@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
@@ -156,4 +157,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0036-valid-sudoku) |
+| [0289-game-of-life](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/damlaSub/Leetcode-Top-Interview/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
